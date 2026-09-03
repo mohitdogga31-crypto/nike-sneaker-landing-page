@@ -2,7 +2,8 @@
 
 [Nike Sneaker Landing Page]
 
-<img width="1856" height="1434" alt="Nike Page 3" src="https://github.com/user-attachments/assets/fd0f450c-934a-4fe8-8483-f06579e8360a" />
+<img width="1856" height="1434" alt="Nike Page 8" src="https://github.com/user-attachments/assets/2fc5afaf-c8a5-481b-812c-9e7a9dc66840" />
+
 
 
 A modern Nike-inspired sneaker landing page designed with a premium dark aesthetic, strong visual hierarchy, and product-focused UI.
